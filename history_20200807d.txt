@@ -1,0 +1,10 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  PS1 = "^ "
+    4  PS1="^ "
+    5  history
+    6  history
+    7  history_20200807c.txt
+    8  history > history_20200807c.txt
+    9  ls
+   10  history > history_20200807d.txt
