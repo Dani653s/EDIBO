@@ -5,6 +5,10 @@ EDIBO projekta elektroniskā klade
 - Terminal (hot-keys)
 - Shell (basics)
 - Git (basics)
+- ASCII table  
+
+#### ASCII table  
+[ASCII table](http://www.econwin.org/ascii.htm)  
 
 ## Hot-keys (Terminal):fire:     
 ctrl + alt + T = open terminal  

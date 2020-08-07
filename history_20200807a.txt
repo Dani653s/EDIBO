@@ -1,0 +1,46 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  PS1 -"%"
+    4  PS1="%"
+    5  PS1="% "
+    6  HISTORY
+    7  history
+    8  m
+    9  l
+   10  echo $0
+   11  sh
+   12  echo $0
+   13  last
+   14  pwd
+   15  ls
+   16  ls -l
+   17  ls -l -a
+   18  ls -lt
+   19  cd Desktop/
+   20  cd ~
+   21  pwd
+   22  tree
+   23  man tree
+   24  tree
+   25  ls
+   26  man tree
+   27  tree -d
+   28  LS
+   29  ls
+   30  ls -l
+   31  git clone http://github.com/Dani653s/EDIBO
+   32  ls -lt
+   33  cd EDIBO
+   34  ls -lt
+   35  ls -lta
+   36  ls -lt
+   37  pwd
+   38  cd .
+   39  pwd
+   40  ls
+   41  cat README.md
+   42  hexdump -C README.md
+   43  nano README.md
+   44  ls -lta
+   45  history
+   46  history > history_20200807a.txt
