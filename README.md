@@ -10,6 +10,9 @@ EDIBO projekta elektroniskā klade
 #### ASCII table  
 [ASCII table](http://www.econwin.org/ascii.htm)  
 
+#### Terminal Online
+[Terminal Online](https://cocalc.com/projects/319f978c-07db-4cdb-9c77-96e56038d25a/files/Welcome%20to%20CoCalc.term?session=default)
+
 ## Hot-keys (Terminal):fire:     
 ctrl + alt + T = open terminal  
 shift + ctrl + w = close terminal  
