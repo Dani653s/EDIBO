@@ -64,8 +64,8 @@ Use ** ** to do bold text
 Use * * to do italic text  
 Use - before word to do lists  
 
-DAY 04  
-USING SHELL VARIABLES  
+####DAY 04  
+####USING SHELL VARIABLES  
 variable_name=variable_value    
 NAME="Zara Ali" - example    
 Script -    
@@ -76,7 +76,7 @@ echo $NAME
 This script will produce -   
 Zara Ali  
 
-SPECIAL VARIABLES  
+####SPECIAL VARIABLES  
 $0 - The filename of the current script.  
 $n - These variables correspond to the arguments with which a script was invoked. Here n is a positive decimal number corresponding to the position of an argument (the first argument is $1, the second argument is $2, and so on).
 $# - The number of arguments supplied to a script.  
@@ -86,13 +86,13 @@ $? - The exit status of the last command executed.
 $$ - The process number of the current shell. For shell scripts, this is the process ID under which they are executing.  
 $! - The process number of the last background command.  
 
-USING SHELL ARRAYS  
+####USING SHELL ARRAYS  
 array_name[index]=value - definition  
 
 ${array_name[*]}  - all the arguments - https://unix.stackexchange.com/questions/129072/whats-the-difference-between-and/129077  
 ${array_name[@]}  - all the arguments  
 
-SHELL BASIC OPERATORS  
+####SHELL BASIC OPERATORS  
  - Arithmetic Operators  
  - Relational Operators  
  - Boolean Operators  
@@ -103,23 +103,25 @@ Example in test_operators_1.sh.
 Operators: +, -, *, /, %, =, == (equality), != (not equality).  
 Relational Operators - 
 
-SHELL DECISION MAKING  
+####SHELL DECISION MAKING  
 Statements: if...else, case...esac.  
 
-SHELL LOOP TYPES  
+####SHELL LOOP TYPES  
 Syntax  
-while command1 ; # this is loop1, the outer loop
-do
-   Statement(s) to be executed if command1 is true
-
-   while command2 ; # this is loop2, the inner loop
-   do
+      
+      while command1 ; # this is loop1, the outer loop
+     do
+      Statement(s) to be executed if command1 is true
+ 
+      while command2 ; # this is loop2, the inner loop
+     do
       Statement(s) to be executed if command2 is true
-   done
+    done
 
-   Statement(s) to be executed if command1 is true
-done  
+      Statement(s) to be executed if command1 is true
+    done
 
-SHELL LOOP CONTROL  
+
+####SHELL LOOP CONTROL  
 Example in test_loop_control_1/2/3.sh  
 
