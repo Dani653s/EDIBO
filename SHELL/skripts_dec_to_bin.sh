@@ -1,4 +1,4 @@
 #!/bin/bash
 
-val=`obase 2;var`
-echo "Total value: $val"
+ip1=10
+echo "obase=2;$ip1" | bc
