@@ -1,0 +1,140 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  cd SHELL/
+    4  PWD
+    5  pwd
+    6  nano test.sh
+    7  ls -lt
+    8  chmod 744 test.sh
+    9  ls -lt
+   10  ./test.sh 
+   11  ls -l
+   12  nano test_variables_1.sh
+   13  ls -l
+   14  chmod 744 test_variables_1.sh
+   15  ls -l
+   16  ./test_variables_1.sh 
+   17  nano test_variables_1.sh 
+   18  ls
+   19  ./test_variables_1.sh 
+   20  nano test_variables_1.sh 
+   21  ./test_variables_1.sh 
+   22  nano test_variables_1.sh 
+   23  ./test_variables_1.sh 
+   24  nano test_variables_1.sh 
+   25  ./test_variables_1.sh 
+   26  $echo $$
+   27  nano test_special_variables_1.sh
+   28  ls
+   29  chmod 744 test_special_variables_1.sh 
+   30  ./test_special_variables_1.sh 
+   31  nano test_variables_1.sh 
+   32  l
+   33  ls
+   34  ./test.sh
+   35  nano test.sh
+   36  ./test.sh
+   37  nano test.sh
+   38  nano test_variables_2.sh 
+   39  ls
+   40  chmod 744 test_variables_2.sh
+   41  ls
+   42  ./test_variables_2.sh
+   43  nano test_variables_2.sh
+   44  ./test_variables_2.sh
+   45  nano test_variables_2.sh
+   46  ./test_variables_2.sh
+   47  mv test_variables_2.sh test_special_variables_2.sh
+   48  ls
+   49  nano test_speacial_variables_3.sh
+   50  ls
+   51  chmod 744 test_speacial_variables_3.sh
+   52  ls
+   53  ./test_special_variables_3.sh
+   54  ./test_speacial_variables_3.sh
+   55  nano test_speacial_variables_3.sh
+   56  rmdir test_speacial_variables_3.sh
+   57  ./test_speacial_variables_3.sh
+   58  ./test_speacial_variables_3.sh Zara Ali
+   59  mv test_speacial_variables_3.sh test_special_variables_3.sh
+   60  ls
+   61  ls -lt
+   62  ./test_special_variables_1
+   63  ./test_special_variables_1.sh
+   64  nano test_special_variables_1.sh
+   65  ./test_special_variables_1.sh Zara Ali
+   66  $echo $?
+   67  $
+   68  nano test_operators_1.sh
+   69  ls
+   70  chmod 744 test_operators_1.sh
+   71  ls
+   72  ./test_operators_1.sh
+   73  $$
+   74  ./test_operators_1.sh
+   75  nano test_operators_1.sh
+   76  ./test_operators_1.sh
+   77  nano test_operators_1.sh
+   78  nano test_shell_arrays_1.sh
+   79  ls
+   80  chmod 744
+   81  chmod 744 test_shell_arrays.sh
+   82  chmod 744 test_shell_arrays_1.sh
+   83  ls
+   84  ./test_shell_arrays_1.sh
+   85  ./test_shell_arrays_1.sh ${NAME[*]}
+   86  nano test_shell_arrays_2.sh 
+   87  chmod 744 test_shell_arrays_2.sh
+   88  ./test_shell_arrays_2.sh
+   89  nano test_loop_1.sh
+   90  chmod 744 test_loop.sh
+   91  chmod 744 test_loop_1.sh
+   92  ./test_loop_1.sh
+   93  nano test_loop_1.sh
+   94  ./test_loop_1.sh
+   95  nano test_loop_1.sh
+   96  ./test_loop_1.sh
+   97  nano test_infinite_loop_1.sh
+   98  chmod 744 test_infinite_loop_1.sh
+   99  ./test_infinite_loop_1.sh
+  100  nano test_loop_control_1.sh
+  101  chmod 744 test_loop_control_1.sh 
+  102  ./test_loop_control_1.sh 
+  103  nano test_loop_control_2.sh
+  104  chmod 744 test_loop_control_2.sh 
+  105  ./test_loop_control_2.sh 
+  106  nano test_loop_control_3.sh
+  107  chmod 744 test_loop_control_3.sh 
+  108  ./test_loop_control_3.sh 
+  109  dec
+  110  bin
+  111  nano skripts_dec_to_bin.sh
+  112  echo "obase=2;$ip1"
+  113  echo "obase=2;$ip1" | bc
+  114  12
+  115  D2B
+  116  echo ${D2B[7]}
+  117  pwd
+  118  cd ..
+  119  pwd
+  120  cd ..
+  121  pwd
+  122  echo ${D2B[7]}
+  123  echo ${D2B[8]}
+  124  cd EDIBO
+  125  cd SHELL
+  126  pwd
+  127  echo 'obase=2' | bc
+  128  echo 'obase=2;100100' | bc
+  129  echo 'obase=2;2' | bc
+  130  ls
+  131  chmod
+  132  chmod 744 skripts_dec_to_bin.sh
+  133  ls
+  134  ./skripts_dec_to_bin.sh
+  135  nano skripts_dec_to_bin.sh
+  136  ./skripts_dec_to_bin.sh
+  137  nano skripts_dec_to_bin.sh
+  138  history
+  139  hisory > history_20200811a.txt
+  140  history > history_20200811a.txt
