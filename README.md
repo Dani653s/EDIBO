@@ -66,7 +66,8 @@ Use - before word to do lists
 
 #### DAY 04  
 #### USING SHELL VARIABLES  
-variable_name=variable_value    
+    variable_name=variable_value    
+
 NAME="Zara Ali" - example    
 Script -    
 #!/bin/sh  
@@ -87,7 +88,7 @@ $$ - The process number of the current shell. For shell scripts, this is the pro
 $! - The process number of the last background command.  
 
 #### USING SHELL ARRAYS  
-array_name[index]=value - definition  
+    array_name[index]=value  
 
 ${array_name[*]}  - all the arguments - https://unix.stackexchange.com/questions/129072/whats-the-difference-between-and/129077  
 ${array_name[@]}  - all the arguments  
