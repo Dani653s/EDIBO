@@ -1,5 +1,5 @@
-####PYTHON  
-##Commands
+#### PYTHON  
+## Commands
 python = to open 
 exit() = go back to bash (ctrl+D)  
 vars() = modules that I have rn   
