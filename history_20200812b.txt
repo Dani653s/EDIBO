@@ -1,0 +1,53 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/dani653s/EDIBO
+    4  ls -lt
+    5  cd EDIBO
+    6  ped
+    7  pwd
+    8  cd SHELL
+    9  ls -lt
+   10  nano skripts_dec_to_bin_2.sh
+   11  ped
+   12  pwd
+   13  nano skripts_dec_to_bin_2.sh 
+   14  nano dec_to_bin.txt
+   15  nano skripts_dec_to_bin_2.sh 
+   16  ls -lt
+   17  chmod 744 skripts_dec_to_bin_2.sh
+   18  ./skripts_dec_to_bin_2.sh 123
+   19  nano skripts_dec_to_bin_2.sh 
+   20  ./skripts_dec_to_bin_2.sh 123
+   21  ls -lt
+   22  ./skripts_dec_to_bin.sh
+   23  nano skripts_dec_to_bin.sh
+   24  ./skripts_dec_to_bin.sh
+   25  nano skripts_dec_to_bin.sh
+   26  ./skripts_dec_to_bin.sh
+   27  history
+   28  nano skripts_dec_to_bin.sh
+   29  ./skripts_dec_to_bin_2.sh 123
+   30  nano skripts_dec_to_bin_2.s
+   31  ./skripts_dec_to_bin_2.sh 123
+   32  nano skripts_dec_to_bin_2.s
+   33  ls -lt
+   34* nano skripts_dec_to_bin_2.sh 
+   35  history
+   36  ./skripts_dec_to_bin_2.sh 10
+   37  nano skripts_dec_to_bin.sh
+   38  nano skripts_dec_to_bin_2.sh
+   39  ./skripts_dec_to_bin_2.sh 10
+   40  history
+   41  pwd
+   42  cd ..
+   43  pwd
+   44  mkdir Python
+   45  cd Python/
+   46  pwd
+   47  nano README.md
+   48  pwd
+   49  ls -lt
+   50  cd ..
+   51  ls -lt
+   52  history 
+   53  history > history_20200812b.txt

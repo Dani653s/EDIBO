@@ -1,0 +1,46 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  cal
+    4  pwd
+    5  nano skripts_fibonacci_numbers.sh
+    6  ls -lt
+    7  chmod 744 skripts_fibonacci_numbers.sh
+    8  ./skripts_fibonacci_numbers.sh
+    9  nano skripts_fibonacci_numbers.sh
+   10  ./skripts_fibonacci_numbers.sh
+   11  nano skripts_fibonacci_numbers.sh
+   12  git clone --global user.email danielaveldze@gmail.com
+   13  pwd
+   14  git clone --global user.email danielaveldze@gmail.com
+   15  git config --global user.email danielaveldze@gmail.comg
+   16  git add .
+   17  git commit -m "skripts_fibonacci_numbers.sh"
+   18  push origin master
+   19  git push origin master
+   20  pwd
+   21  python
+   22  pwd
+   23  python
+   24  ipython
+   25  history
+   26  nano first_python_script.py
+   27  ls -lt
+   28  python first_python_script.py 
+   29  nano first_python_script.py
+   30  python first_python_script.py 
+   31  cp first_python_script.py second_python_script_like_executable.py
+   32  ls -l
+   33  whereis python
+   34  nano second_python_script_like_executable.py 
+   35  ls -lt
+   36  chmod 744 second_python_script_like_executable.py 
+   37  ls -lt
+   38  ./second_python_script_like_executable.py 
+   39  idle 
+   40  idle &
+   41  ls -lt
+   42  cd ..
+   43  pw
+   44  dpwd
+   45  history
+   46  history > history_20200812a.txt

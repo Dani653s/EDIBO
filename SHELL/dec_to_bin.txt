@@ -1,0 +1,17 @@
+dec2bin
+
+      strādāt kamēr
+           |
+           ^ 
+ 76 / 2 = 38 (0)
+ 38 / 2 = 19 (0)
+ 19 / 2 =  9 (1)
+  9 / 2 =  4 (1)
+  4 / 2 =  2 (0)
+  2 / 2 =  1 (0)
+  1 / 2 =  0 (1)
+        nav nulle
+bet attēlot atlikumu no dalījuma
+0 0 1 1 0 0 1 - nē
+
+1 0 0 1 1 0 0 - jā
