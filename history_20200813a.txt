@@ -1,0 +1,63 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  idle
+    4  idle &
+    5  nano milzigs_skaitlis.py
+    6  cat milzigs_skaitlis.py
+    7* chmod 744 milzigs_skaitlis.py 
+    8  ./milzigs_skaitlis.py 
+    9  cat milzigs_skaitlis.py 
+   10  la -lt
+   11  ./milzigs_skaitlis.py\ 
+   12  ./milzigs_skaitlis.py
+   13  nano milzigs_skaitlis.py
+   14  ./milzigs_skaitlis.py
+   15  nano milzigs_skaitlis.py
+   16  ./milzigs_skaitlis.py
+   17  ./milzigs_skaitlis.py 65
+   18  nano milzigs_skaitlis.py
+   19  ./milzigs_skaitlis.py 65
+   20  ./milzigs_skaitlis.py
+   21  nano milzigs_skaitlis.py
+   22  ./milzigs_skaitlis.py
+   23  nano milzigs_skaitlis.py
+   24  ./milzigs_skaitlis.py
+   25  nano milzigs_skaitlis.py
+   26  ./milzigs_skaitlis.py
+   27  nano milzigs_skaitlis.py
+   28  ./milzigs_skaitlis.py
+   29  nano milzigs_skaitlis.py
+   30  ./milzigs_skaitlis.py
+   31  nano milzigs_skaitlis.py
+   32  ./milzigs_skaitlis.py
+   33  50
+   34  ./milzigs_skaitlis.py
+   35  ./milzigs_skaitlis.py 50
+   36  nano milzigs_skaitlis.py
+   37  ./milzigs_skaitlis.py 50
+   38  nano milzigs_skaitlis.py
+   39  ./milzigs_skaitlis.py 50
+   40  ./milzigs_skaitlis.py 
+   41  nano milzigs_skaitlis.py
+   42  ./milzigs_skaitlis.py 
+   43  nano milzigs_skaitlis.py
+   44  ./milzigs_skaitlis.py 
+   45  nano milzigs_skaitlis.py
+   46  ./milzigs_skaitlis.py 
+   47  ./milzigs_skaitlis.py 14
+   48  ./milzigs_skaitlis.py 
+   49  nano milzigs_skaitlis.py
+   50  ./milzigs_skaitlis.py 
+   51  nano milzigs_skaitlis.py
+   52  ./milzigs_skaitlis.py 
+   53  nano milzigs_skaitlis.py
+   54  ./milzigs_skaitlis.py 
+   55  nano milzigs_skaitlis.py
+   56  ./milzigs_skaitlis.py 
+   57  nano milzigs_skaitlis.py
+   58  ./milzigs_skaitlis.py 
+   59  nano milzigs_skaitlis.py
+   60  idle &
+   61  cd ..
+   62  history
+   63  history > history_20200813a.txt
