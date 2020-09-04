@@ -2,5 +2,5 @@
 
 git config --global user.email danielaveldze@gmail.com
 git add .
-git commit -m "20200903_19_37"
+git commit -m "20200904_17_12"
 git push origin master
